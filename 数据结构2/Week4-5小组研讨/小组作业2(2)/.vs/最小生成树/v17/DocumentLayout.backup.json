@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\TestAdjListdirNetwork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|solutionrelative:TestAdjListdirNetwork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\AdjListUndirNetwork.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|solutionrelative:AdjListUndirNetwork.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\AdjListUnDirNetwork(gsh).h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|solutionrelative:AdjListUnDirNetwork(gsh).h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2\\AdjListUnDirNetwork(lty).h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2\\Edge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\AdjListUnDirNetworkArc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|solutionrelative:AdjListUnDirNetworkArc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\AdjListUnDirNetworkVex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|solutionrelative:AdjListUnDirNetworkVex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\Assistance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97B94352-0C36-4483-A005-89A65F4C8028}|\u6700\u5C0F\u751F\u6210\u6811.vcxproj|solutionrelative:Assistance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdjListUnDirNetwork(lty).h",
+              "DocumentMoniker": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2\\AdjListUnDirNetwork(lty).h",
+              "RelativeDocumentMoniker": "..\\\u5C0F\u7EC4\u4F5C\u4E1A2\\AdjListUnDirNetwork(lty).h",
+              "ToolTip": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2\\AdjListUnDirNetwork(lty).h",
+              "RelativeToolTip": "..\\\u5C0F\u7EC4\u4F5C\u4E1A2\\AdjListUnDirNetwork(lty).h",
+              "ViewState": "AgIAAOQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-13T15:00:44.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdjListUnDirNetwork(gsh).h",
+              "DocumentMoniker": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\AdjListUnDirNetwork(gsh).h",
+              "RelativeDocumentMoniker": "AdjListUnDirNetwork(gsh).h",
+              "ToolTip": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\AdjListUnDirNetwork(gsh).h",
+              "RelativeToolTip": "AdjListUnDirNetwork(gsh).h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-13T08:52:24.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdjListUndirNetwork.h",
+              "DocumentMoniker": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\AdjListUndirNetwork.h",
+              "RelativeDocumentMoniker": "AdjListUndirNetwork.h",
+              "ToolTip": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\AdjListUndirNetwork.h",
+              "RelativeToolTip": "AdjListUndirNetwork.h",
+              "ViewState": "AgIAADgCAAAAAAAAAAAAAE4CAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-13T08:24:35.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edge.h",
+              "DocumentMoniker": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2\\Edge.h",
+              "RelativeDocumentMoniker": "..\\\u5C0F\u7EC4\u4F5C\u4E1A2\\Edge.h",
+              "ToolTip": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2\\Edge.h",
+              "RelativeToolTip": "..\\\u5C0F\u7EC4\u4F5C\u4E1A2\\Edge.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-13T07:54:52.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestAdjListdirNetwork.cpp",
+              "DocumentMoniker": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\TestAdjListdirNetwork.cpp",
+              "RelativeDocumentMoniker": "TestAdjListdirNetwork.cpp",
+              "ToolTip": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\TestAdjListdirNetwork.cpp",
+              "RelativeToolTip": "TestAdjListdirNetwork.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwHMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-11T05:48:00.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdjListUndirNetworkArc.h",
+              "DocumentMoniker": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\AdjListUndirNetworkArc.h",
+              "RelativeDocumentMoniker": "AdjListUndirNetworkArc.h",
+              "ToolTip": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\AdjListUndirNetworkArc.h",
+              "RelativeToolTip": "AdjListUndirNetworkArc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T05:48:15.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdjListUndirNetworkVex.h",
+              "DocumentMoniker": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\AdjListUndirNetworkVex.h",
+              "RelativeDocumentMoniker": "AdjListUndirNetworkVex.h",
+              "ToolTip": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\AdjListUndirNetworkVex.h",
+              "RelativeToolTip": "AdjListUndirNetworkVex.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T05:48:13.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assistance.h",
+              "DocumentMoniker": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\Assistance.h",
+              "RelativeDocumentMoniker": "Assistance.h",
+              "ToolTip": "F:\\\u5927\u5B66\\\u5927\u4E8C\\\u5927\u4E8C\u4E0B\\\u6570\u636E\u7ED3\u6784\\\u5C0F\u7EC4\u4F5C\u4E1A2\\\u5C0F\u7EC4\u4F5C\u4E1A2(2)\\Assistance.h",
+              "RelativeToolTip": "Assistance.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-11T05:48:12.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

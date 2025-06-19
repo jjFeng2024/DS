@@ -1,0 +1,11 @@
+﻿  test.cpp
+C:\Users\冯\Documents\数据结构1\第二周作业T3\LinkList.h(10,9): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+C:\Users\冯\Documents\数据结构1\第二周作业T3\LinkList.h(19,2): message : 查看对正在编译的 类 模板 实例化“LinkList<ElemType>”的引用
+C:\Users\冯\Documents\数据结构1\第二周作业T3\LinkList.h(10,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\冯\Documents\数据结构1\第二周作业T3\LinkList.h(10,25): error C2238: 意外的标记位于“;”之前
+C:\Users\冯\Documents\数据结构1\第二周作业T3\LinkList.h(33,5): error C2065: “head”: 未声明的标识符
+C:\Users\冯\Documents\数据结构1\第二周作业T3\LinkList.h(33,16): error C2065: “Node”: 未声明的标识符
+C:\Users\冯\Documents\数据结构1\第二周作业T3\LinkList.h(33,16): error C2187: 语法错误: 此处出现意外的“Node”
+C:\Users\冯\Documents\数据结构1\第二周作业T3\LinkList.h(33,20): error C3878: 语法错误: "expression" 后出现意外标记 "<"
+C:\Users\冯\Documents\数据结构1\第二周作业T3\LinkList.h(33,20): message : 已跳过错误恢复:“< 标识符 >  . . . (”
+C:\Users\冯\Documents\数据结构1\第二周作业T3\LinkList.h(43,1): fatal  error C1903: 无法从以前的错误中恢复；正在停止编译

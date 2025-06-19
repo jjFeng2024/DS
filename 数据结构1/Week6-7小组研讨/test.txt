@@ -1,0 +1,3 @@
+Hello world, welcome to the universe.
+This is a simple test for word search.
+Choose whaterver word you want to search.

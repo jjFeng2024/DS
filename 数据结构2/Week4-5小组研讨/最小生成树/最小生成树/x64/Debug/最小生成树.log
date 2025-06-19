@@ -1,0 +1,30 @@
+﻿  TestAdjListDirNetwork.cpp
+D:\c++cpp\最小生成树\AdjListUnDirNetwork.h(257,37): warning C4101: “q”: 未引用的局部变量
+  (编译源文件“TestAdjListDirNetwork.cpp”)
+      D:\c++cpp\最小生成树\AdjListUnDirNetwork.h(257,37):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\c++cpp\最小生成树\TestAdjListDirNetwork.cpp(25,34):
+          查看对正在编译的 类 模板 实例化“AdjListUnDirNetwork<char,int>”的引用
+          D:\c++cpp\最小生成树\AdjListUnDirNetwork.h(247,1):
+          在编译 类 模板 成员函数“void AdjListUnDirNetwork<char,int>::InsertArc(int,int,WeightType)”时
+          with
+          [
+              WeightType=int
+          ]
+              D:\c++cpp\最小生成树\TestAdjListDirNetwork.cpp(29,41):
+              请参阅 "main" 中对 "AdjListUnDirNetwork<char,int>::InsertArc" 的第一个引用
+  
+D:\c++cpp\最小生成树\AdjListUnDirNetwork.h(268,40): warning C4101: “q”: 未引用的局部变量
+  (编译源文件“TestAdjListDirNetwork.cpp”)
+      D:\c++cpp\最小生成树\AdjListUnDirNetwork.h(268,40):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\c++cpp\最小生成树\AdjListUnDirNetwork.h(266,1):
+          在编译 类 模板 成员函数“void AdjListUnDirNetwork<char,int>::DeleteVex(const ElemType &)”时
+          with
+          [
+              ElemType=char
+          ]
+              D:\c++cpp\最小生成树\TestAdjListDirNetwork.cpp(72,28):
+              请参阅 "main" 中对 "AdjListUnDirNetwork<char,int>::DeleteVex" 的第一个引用
+  
+  最小生成树.vcxproj -> D:\c++cpp\最小生成树\x64\Debug\最小生成树.exe
